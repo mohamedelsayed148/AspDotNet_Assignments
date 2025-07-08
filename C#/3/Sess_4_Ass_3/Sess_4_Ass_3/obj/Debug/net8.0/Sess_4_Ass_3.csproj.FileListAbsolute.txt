@@ -1,0 +1,14 @@
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\bin\Debug\net8.0\Sess_4_Ass_3.exe
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\bin\Debug\net8.0\Sess_4_Ass_3.deps.json
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\bin\Debug\net8.0\Sess_4_Ass_3.runtimeconfig.json
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\bin\Debug\net8.0\Sess_4_Ass_3.dll
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\bin\Debug\net8.0\Sess_4_Ass_3.pdb
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\obj\Debug\net8.0\Sess_4_Ass_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\obj\Debug\net8.0\Sess_4_Ass_3.AssemblyInfoInputs.cache
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\obj\Debug\net8.0\Sess_4_Ass_3.AssemblyInfo.cs
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\obj\Debug\net8.0\Sess_4_Ass_3.csproj.CoreCompileInputs.cache
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\obj\Debug\net8.0\Sess_4_Ass_3.dll
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\obj\Debug\net8.0\refint\Sess_4_Ass_3.dll
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\obj\Debug\net8.0\Sess_4_Ass_3.pdb
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\obj\Debug\net8.0\Sess_4_Ass_3.genruntimeconfig.cache
+D:\Route-be\assignments\C#\3\Sess_4_Ass_3\Sess_4_Ass_3\obj\Debug\net8.0\ref\Sess_4_Ass_3.dll

@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route-be\\assignments\\C#\\3\\Sess_4_Ass_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32EFDFAB-148A-4E4D-980D-3153590274B6}|Sess_4_Ass_3\\Sess_4_Ass_3.csproj|d:\\route-be\\assignments\\c#\\3\\sess_4_ass_3\\sess_4_ass_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EFDFAB-148A-4E4D-980D-3153590274B6}|Sess_4_Ass_3\\Sess_4_Ass_3.csproj|solutionrelative:sess_4_ass_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route-be\\assignments\\C#\\3\\Sess_4_Ass_3\\Sess_4_Ass_3\\Program.cs",
+              "RelativeDocumentMoniker": "Sess_4_Ass_3\\Program.cs",
+              "ToolTip": "D:\\Route-be\\assignments\\C#\\3\\Sess_4_Ass_3\\Sess_4_Ass_3\\Program.cs",
+              "RelativeToolTip": "Sess_4_Ass_3\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:29:09.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

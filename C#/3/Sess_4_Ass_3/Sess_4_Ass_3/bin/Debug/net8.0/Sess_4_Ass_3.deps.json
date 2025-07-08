@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sess_4_Ass_3/1.0.0": {
+        "runtime": {
+          "Sess_4_Ass_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sess_4_Ass_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

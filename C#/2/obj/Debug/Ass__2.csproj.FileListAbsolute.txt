@@ -1,0 +1,7 @@
+D:\Route-be\Lecs\2-C#\Ass__2\bin\Debug\Ass__2.exe.config
+D:\Route-be\Lecs\2-C#\Ass__2\bin\Debug\Ass__2.exe
+D:\Route-be\Lecs\2-C#\Ass__2\bin\Debug\Ass__2.pdb
+D:\Route-be\Lecs\2-C#\Ass__2\obj\Debug\Ass__2.csproj.AssemblyReference.cache
+D:\Route-be\Lecs\2-C#\Ass__2\obj\Debug\Ass__2.csproj.CoreCompileInputs.cache
+D:\Route-be\Lecs\2-C#\Ass__2\obj\Debug\Ass__2.exe
+D:\Route-be\Lecs\2-C#\Ass__2\obj\Debug\Ass__2.pdb
