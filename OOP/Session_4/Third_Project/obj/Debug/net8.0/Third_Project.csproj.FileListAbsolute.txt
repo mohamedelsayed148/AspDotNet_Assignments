@@ -1,0 +1,15 @@
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\bin\Debug\net8.0\Third_Project.exe
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\bin\Debug\net8.0\Third_Project.deps.json
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\bin\Debug\net8.0\Third_Project.runtimeconfig.json
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\bin\Debug\net8.0\Third_Project.dll
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\bin\Debug\net8.0\Third_Project.pdb
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\obj\Debug\net8.0\Third_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\obj\Debug\net8.0\Third_Project.AssemblyInfoInputs.cache
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\obj\Debug\net8.0\Third_Project.AssemblyInfo.cs
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\obj\Debug\net8.0\Third_Project.csproj.CoreCompileInputs.cache
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\obj\Debug\net8.0\Third_Project.sourcelink.json
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\obj\Debug\net8.0\Third_Project.dll
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\obj\Debug\net8.0\refint\Third_Project.dll
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\obj\Debug\net8.0\Third_Project.pdb
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\obj\Debug\net8.0\Third_Project.genruntimeconfig.cache
+D:\Route-be\assignments\AspDotNet_Assignments\OOP\Session_4\Third_Project\obj\Debug\net8.0\ref\Third_Project.dll
