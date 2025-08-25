@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|d:\\route-be\\assignments\\aspdotnet_assignments\\oop\\session_5\\session_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|solutionrelative:session_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|d:\\route-be\\assignments\\aspdotnet_assignments\\oop\\session_5\\session_5\\interfaces\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|solutionrelative:session_5\\interfaces\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|d:\\route-be\\assignments\\aspdotnet_assignments\\oop\\session_5\\session_5\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|solutionrelative:session_5\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|d:\\route-be\\assignments\\aspdotnet_assignments\\oop\\session_5\\session_5\\classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|solutionrelative:session_5\\classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|d:\\route-be\\assignments\\aspdotnet_assignments\\oop\\session_5\\session_5\\interfaces\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|solutionrelative:session_5\\interfaces\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|d:\\route-be\\assignments\\aspdotnet_assignments\\oop\\session_5\\session_5\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23187BBF-B25D-4C82-9095-00EF569C72A3}|Session_5\\Session_5.csproj|solutionrelative:session_5\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 376,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Classes\\Circle.cs",
+              "RelativeDocumentMoniker": "Session_5\\Classes\\Circle.cs",
+              "ToolTip": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Classes\\Circle.cs",
+              "RelativeToolTip": "Session_5\\Classes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T20:32:59.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRectangle.cs",
+              "DocumentMoniker": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Interfaces\\IRectangle.cs",
+              "RelativeDocumentMoniker": "Session_5\\Interfaces\\IRectangle.cs",
+              "ToolTip": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Interfaces\\IRectangle.cs",
+              "RelativeToolTip": "Session_5\\Interfaces\\IRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T20:31:00.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Program.cs",
+              "RelativeDocumentMoniker": "Session_5\\Program.cs",
+              "ToolTip": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Program.cs",
+              "RelativeToolTip": "Session_5\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwEMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:39:11.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Classes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Session_5\\Classes\\Rectangle.cs",
+              "ToolTip": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Classes\\Rectangle.cs",
+              "RelativeToolTip": "Session_5\\Classes\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T20:33:19.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICircle.cs",
+              "DocumentMoniker": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Interfaces\\ICircle.cs",
+              "RelativeDocumentMoniker": "Session_5\\Interfaces\\ICircle.cs",
+              "ToolTip": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Interfaces\\ICircle.cs",
+              "RelativeToolTip": "Session_5\\Interfaces\\ICircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T20:30:38.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Interfaces\\IShape.cs",
+              "RelativeDocumentMoniker": "Session_5\\Interfaces\\IShape.cs",
+              "ToolTip": "D:\\Route-be\\assignments\\AspDotNet_Assignments\\OOP\\Session_5\\Session_5\\Interfaces\\IShape.cs",
+              "RelativeToolTip": "Session_5\\Interfaces\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T20:27:27.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

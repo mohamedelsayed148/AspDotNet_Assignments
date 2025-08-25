@@ -1,0 +1,14 @@
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\bin\Debug\net8.0\Examinationsystem.exe
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\bin\Debug\net8.0\Examinationsystem.deps.json
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\bin\Debug\net8.0\Examinationsystem.runtimeconfig.json
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\bin\Debug\net8.0\Examinationsystem.dll
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\bin\Debug\net8.0\Examinationsystem.pdb
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\obj\Debug\net8.0\Examinationsystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\obj\Debug\net8.0\Examinationsystem.AssemblyInfoInputs.cache
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\obj\Debug\net8.0\Examinationsystem.AssemblyInfo.cs
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\obj\Debug\net8.0\Examinationsystem.csproj.CoreCompileInputs.cache
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\obj\Debug\net8.0\Examinationsystem.dll
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\obj\Debug\net8.0\refint\Examinationsystem.dll
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\obj\Debug\net8.0\Examinationsystem.pdb
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\obj\Debug\net8.0\Examinationsystem.genruntimeconfig.cache
+D:\Route-be\Exam_C#&OOP\Examinationsystem\Examinationsystem\obj\Debug\net8.0\ref\Examinationsystem.dll
